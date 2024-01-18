@@ -1,16 +1,16 @@
 ## Titanic Survival Prediction 🚢✨
 
-### Embark on a Data Journey with the Titanic Dataset
+### Unveiling Insights with the Titanic Dataset
 
-🌟 Welcome to the Titanic Survival Prediction project! Uncover the stories of the passengers aboard the legendary Titanic and predict their survival outcomes using state-of-the-art machine learning techniques.
+🌟 Welcome to the Titanic Survival Prediction project! Explore the fascinating stories of Titanic passengers and predict their survival outcomes using cutting-edge machine learning techniques.
 
 ### 🚀 Project Highlights:
 
-- **Predictive Modeling:** Dive into the world of machine learning as we build a model to forecast whether a passenger survived or not.
+- **Predictive Modeling:** Build a machine learning model to forecast whether a passenger survived the ill-fated voyage.
 
-- **Exploratory Data Analysis (EDA):** Unearth hidden patterns, visualize key features, and gain insights into the demographics of Titanic passengers.
+- **Exploratory Data Analysis (EDA):** Delve into the dataset, visualize key features, and gain insights into the demographics of Titanic passengers.
 
-- **Feature Engineering Excellence:** Elevate the dataset by extracting meaningful information and transforming variables for superior model performance.
+- **Feature Engineering Excellence:** Elevate the dataset with meaningful information for superior model performance.
 
 - **Model Evaluation:** Assess the accuracy and effectiveness of our model in predicting survival outcomes on a test dataset.
 
@@ -25,13 +25,16 @@ The Titanic dataset encapsulates details about individual passengers, including 
 - pandas 🐼
 - NumPy 🔢
 - scikit-learn 🧠
+- Matplotlib 📊
+- Seaborn 🌈
+
 ### 🏗️ Project Structure:
 
 ```
 |-- notebooks
-|   |-- [CODSOFT [ Project-1 - TITANIC SURVIVAL PREDICTION].ipynb]_('D:\CODSOFT - Data Science\CODSOFT [ Project-1 - TITANIC SURVIVAL PREDICTION] (1).ipynb').
+|   |-- CODSOFT [ Project-1 - TITANIC SURVIVAL PREDICTION].ipynb
 |-- data
-|   |-- [titanic_dataset.csv]_('D:\CODSOFT - Data Science\archive (9)\tested.csv')
+|   |-- titanic_dataset.csv
 |-- README.md
 |-- .gitignore
 ```
@@ -40,13 +43,12 @@ The Titanic dataset encapsulates details about individual passengers, including 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Titanic-Survival-Prediction.git
+   git clone https://github.com/parikshit0007/CODSOFT.git
    ```
-   Replace `your-username` with your actual GitHub username.
 
 2. **Navigate to the Notebooks:**
    ```bash
-   cd Titanic-Survival-Prediction/notebooks
+   cd CODSOFT/notebooks
    ```
 
 3. **Open the Jupyter Notebook:**
@@ -57,14 +59,9 @@ The Titanic dataset encapsulates details about individual passengers, including 
 
 ### 🤝 Contributors:
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
-
+- [Parikshit V. Prajapati (parikshit0007)]
+- 
 ### 🌟 Acknowledgments:
 
-Special thanks to [Source of Dataset], [Any Other Acknowledgments]. Join us in exploring, contributing, and enhancing this captivating project! Happy coding! 🌐💻
-
----
-
-Feel free to modify the description to add any additional details or customize it further based on your preferences.
+Special thanks to [https://www.kaggle.com/datasets/brendan45774/test-file?resource=download].
+Join us in exploring, contributing, and enhancing this captivating project! Happy coding! 🌐💻
