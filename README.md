@@ -1,4 +1,4 @@
-![image](https://github.com/parikshit0007/CODSOFT/assets/143326738/a065dbb4-7ab7-4da6-9976-0c2ba021e8b8)# Titanic Survival Prediction
+# Titanic Survival Prediction
 
 ![Titanic]("C:\Users\Admin\Downloads\titanic-cruising-at-night-zbknc6f8rl1vw09e.jpg")
 
