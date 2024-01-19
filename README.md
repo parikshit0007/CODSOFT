@@ -39,24 +39,6 @@ The Titanic dataset encapsulates details about individual passengers, including 
 |-- .gitignore
 ```
 
-### 🚧 Instructions:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/parikshit0007/CODSOFT.git
-   ```
-
-2. **Navigate to the Notebooks:**
-   ```bash
-   cd CODSOFT/notebooks
-   ```
-
-3. **Open the Jupyter Notebook:**
-   ```bash
-   jupyter notebook "CODSOFT [ Project-1 - TITANIC SURVIVAL PREDICTION].ipynb"
-   ```
-   Replace the file name with the exact name of your Jupyter Notebook file, including spaces and brackets.
-
 ### 🤝 Contributors:
 
 - [Parikshit V. Prajapati (parikshit0007)]
