@@ -1,5 +1,5 @@
 ## Titanic Survival Prediction 🚢✨
-**DATABASE** : tested.csv
+
 ### Unveiling Insights with the Titanic Dataset
 
 🌟 Welcome to the Titanic Survival Prediction project! Explore the fascinating stories of Titanic passengers and predict their survival outcomes using cutting-edge machine learning techniques.
@@ -41,7 +41,7 @@ The Titanic dataset encapsulates details about individual passengers, including 
 
 ### 🤝 Contributors:
 
-![Parikshit V. Prajapati ]_(parikshit0007).
+[Parikshit V. Prajapati ]
   
 ### 🌟 Acknowledgments:
 
