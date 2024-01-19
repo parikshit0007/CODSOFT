@@ -41,7 +41,7 @@ The Titanic dataset encapsulates details about individual passengers, including 
 
 ### 🤝 Contributors:
 
-![Parikshit V. Prajapati ]_(https://github.com/parikshit0007).
+[Parikshit V Prajapati](https://github.com/parikshit0007)
   
 ### 🌟 Acknowledgments:
 
